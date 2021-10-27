@@ -1,0 +1,5 @@
+C:\Users\horva\Desktop\InternetFixer\FixInternet.exe
+C:\Users\horva\Desktop\InternetFixer\FixInternet.dll
+C:\Users\horva\Desktop\InternetFixer\FixInternet.deps.json
+C:\Users\horva\Desktop\InternetFixer\FixInternet.runtimeconfig.json
+C:\Users\horva\Desktop\InternetFixer\FixInternet.pdb
